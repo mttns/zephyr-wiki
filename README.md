@@ -1,7 +1,3 @@
----
-description: This is a test page
----
+# Zephyr Wiki
 
-# Page
-
-This edit was made from GitHub
+Welcome to the official Zephyr Wiki! This is the definitive place to learn about all things Zephyr.
